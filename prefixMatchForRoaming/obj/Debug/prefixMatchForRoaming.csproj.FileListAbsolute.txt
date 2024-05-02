@@ -1,0 +1,6 @@
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\prefixMatchForRoaming\bin\Debug\prefixMatchForRoaming.exe.config
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\prefixMatchForRoaming\bin\Debug\prefixMatchForRoaming.exe
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\prefixMatchForRoaming\bin\Debug\prefixMatchForRoaming.pdb
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\prefixMatchForRoaming\obj\Debug\prefixMatchForRoaming.csprojResolveAssemblyReference.cache
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\prefixMatchForRoaming\obj\Debug\prefixMatchForRoaming.exe
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\prefixMatchForRoaming\obj\Debug\prefixMatchForRoaming.pdb

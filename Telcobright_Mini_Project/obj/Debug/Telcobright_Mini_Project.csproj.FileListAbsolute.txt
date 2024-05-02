@@ -1,0 +1,6 @@
+c:\users\munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\bin\Debug\Telcobright_Mini_Project.exe.config
+c:\users\munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\bin\Debug\Telcobright_Mini_Project.exe
+c:\users\munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\bin\Debug\Telcobright_Mini_Project.pdb
+c:\users\munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\obj\Debug\Telcobright_Mini_Project.csprojResolveAssemblyReference.cache
+c:\users\munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\obj\Debug\Telcobright_Mini_Project.exe
+c:\users\munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\obj\Debug\Telcobright_Mini_Project.pdb

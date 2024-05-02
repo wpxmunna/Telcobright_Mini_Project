@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCopyEightDir", "Telcobright_Mini_Project\FileCopyEightDir.csproj", "{48630B3B-5DA7-458A-AE8E-E28E5731198A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitLargeSQL", "SplitLargeSQL\SplitLargeSQL.csproj", "{03F1075E-1494-4AE9-B1E8-7D03A94EEA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prefixMatchForRoaming", "prefixMatchForRoaming\prefixMatchForRoaming.csproj", "{7BF295B8-9D45-413C-96EE-77399F58497A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsGatewayAssistant", "SmsGatewayAssistant\SmsGatewayAssistant.csproj", "{8C27608A-41A9-43A5-A01E-4F3DD10F2F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48630B3B-5DA7-458A-AE8E-E28E5731198A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48630B3B-5DA7-458A-AE8E-E28E5731198A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48630B3B-5DA7-458A-AE8E-E28E5731198A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48630B3B-5DA7-458A-AE8E-E28E5731198A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F1075E-1494-4AE9-B1E8-7D03A94EEA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F1075E-1494-4AE9-B1E8-7D03A94EEA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F1075E-1494-4AE9-B1E8-7D03A94EEA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F1075E-1494-4AE9-B1E8-7D03A94EEA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF295B8-9D45-413C-96EE-77399F58497A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF295B8-9D45-413C-96EE-77399F58497A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF295B8-9D45-413C-96EE-77399F58497A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF295B8-9D45-413C-96EE-77399F58497A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C27608A-41A9-43A5-A01E-4F3DD10F2F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C27608A-41A9-43A5-A01E-4F3DD10F2F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C27608A-41A9-43A5-A01E-4F3DD10F2F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C27608A-41A9-43A5-A01E-4F3DD10F2F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

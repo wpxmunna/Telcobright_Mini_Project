@@ -1,0 +1,6 @@
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\SmsGatewayAssistant\bin\Debug\SmsGatewayAssistant.exe.config
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\SmsGatewayAssistant\bin\Debug\SmsGatewayAssistant.exe
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\SmsGatewayAssistant\bin\Debug\SmsGatewayAssistant.pdb
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\SmsGatewayAssistant\obj\Debug\SmsGatewayAssistant.csprojResolveAssemblyReference.cache
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\SmsGatewayAssistant\obj\Debug\SmsGatewayAssistant.exe
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\SmsGatewayAssistant\obj\Debug\SmsGatewayAssistant.pdb

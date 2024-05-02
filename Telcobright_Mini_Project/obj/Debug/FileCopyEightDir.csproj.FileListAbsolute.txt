@@ -1,0 +1,6 @@
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\bin\Debug\Telcobright_Mini_Project.exe.config
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\bin\Debug\Telcobright_Mini_Project.exe
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\bin\Debug\Telcobright_Mini_Project.pdb
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\obj\Debug\FileCopyEightDir.csprojResolveAssemblyReference.cache
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\obj\Debug\Telcobright_Mini_Project.exe
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\Telcobright_Mini_Project\obj\Debug\Telcobright_Mini_Project.pdb

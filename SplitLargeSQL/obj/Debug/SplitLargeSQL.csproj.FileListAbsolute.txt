@@ -1,0 +1,6 @@
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\SplitLargeSQL\bin\Debug\SplitLargeSQL.exe.config
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\SplitLargeSQL\bin\Debug\SplitLargeSQL.exe
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\SplitLargeSQL\bin\Debug\SplitLargeSQL.pdb
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\SplitLargeSQL\obj\Debug\SplitLargeSQL.exe
+C:\Users\Munna\documents\visual studio 2015\Projects\Telcobright_Mini_Project\SplitLargeSQL\obj\Debug\SplitLargeSQL.pdb
+C:\Users\Munna\Documents\Visual Studio 2015\Projects\Telcobright_Mini_Project\SplitLargeSQL\obj\Debug\SplitLargeSQL.csprojResolveAssemblyReference.cache
